@@ -1,0 +1,6 @@
+{
+  "name": "reel_DNA",
+  "description": "Analyze why Instagram Reels go viral. Uncover hooks, patterns, and caption structure for top creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
